@@ -3,7 +3,7 @@ module.exports = {
     "70265989829-0t7m7ce5crs6scqd3t0t6g7pv83ncaii.apps.googleusercontent.com",
   googleClientSecret: "8mkniDQOqacXtlRD3gA4n2az",
   mongoURI:
-    "mongodb+srv://roysinghaniashivam_db_user:Shivam@143@advanced-nodejs.hqu77gw.mongodb.net/advnode?retryWrites=true&appName=advanced-nodejs",
+    "mongodb+srv://roysinghaniashivam_db_user:Shivam%40143@advanced-nodejs.hqu77gw.mongodb.net/blog_dev?retryWrites=true&appName=advanced-nodejs",
   cookieKey: "123123123",
 };
 
